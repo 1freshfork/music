@@ -4,5 +4,5 @@ track_current=--:--
 track_total=--:--
 track_left=--:--
 actively_app=Chrome
-already_active_app=00:03:17
-user_local_time=16:40:58
+already_active_app=00:03:21
+user_local_time=16:41:02
