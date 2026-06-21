@@ -1,0 +1,4 @@
+name = Im so love for youu
+author = лезвием ножа., 10 дней
+path = files/my.mp3
+cover = files/cover.png
