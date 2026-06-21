@@ -4,5 +4,5 @@ track_current=--:--
 track_total=--:--
 track_left=--:--
 actively_app=Windowsterminal
-already_active_app=00:00:04
-user_local_time=16:51:23
+already_active_app=00:00:08
+user_local_time=16:51:28
